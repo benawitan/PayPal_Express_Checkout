@@ -24,7 +24,7 @@ This demo uses
   * Password: `test1234`
 * Complete the payment instructions
 * You will receive a message that says __"Payment completed"__
-
+* Verify sandbox account transactions in http://sandbox.paypal.com against the login credentials above
 
 ## Useful link
 
