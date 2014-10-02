@@ -2,7 +2,10 @@
 
 Built on https://github.com/commercefactory/005-paypal-express-checkout-php
 
-This is an example of the PayPal Express Checkout API using plain PHP to make a PayPal payment.
+This is an example of the PayPal Express Checkout API using plain PHP to make a 
+1. PayPal payment
+2. Recurring Payment
+3. Reference Transaction - Variable future payment
 
 This code does not use an SDK although it uses a basic wrapper to handle the NVP API. You can use [this library](includes/paypal.php) as a drop in for your project.
 
